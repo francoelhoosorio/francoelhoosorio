@@ -1,4 +1,4 @@
-## Olá eu sou a Francisco Coelho, estudante de engenharia da computação!                                                                                                           
+## Olá eu sou a Francisco Coelho, Desenvolvedor Front-end!                                                                                                           
 
 <div>
     <a href="https://github.com/francoelhoosorio">
